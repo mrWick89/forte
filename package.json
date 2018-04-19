@@ -1,0 +1,34 @@
+{
+  "name": "MyProgect",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "CV"
+  ],
+  "author": "Ivan T",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "autoprefixer": "",
+    "browser-sync": "",
+    "cssnano": "",
+    "gulp-imagemin": "",
+    "gulp-postcss": "",
+    "gulp-rigger": "",
+    "gulp-uglify": "",
+    "gulp-webserver": "",
+    "gulp-less": "",
+    "gulp-sass": ""
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
